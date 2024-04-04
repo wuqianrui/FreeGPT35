@@ -1,6 +1,4 @@
 {
-  "name": "your-app",
-  "version": "1.0.0",
   "scripts": {
     "start": "node app.js", // 默认的启动脚本
   },
