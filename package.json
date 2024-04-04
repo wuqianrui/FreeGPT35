@@ -1,7 +1,4 @@
 {
-  "scripts": {
-    "start": "node app.js", // 默认的启动脚本
-  },
   "dependencies": {
     "axios": "^1.6.8",
     "express": "^4.19.2",
