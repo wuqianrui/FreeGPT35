@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: freegpt35
+    name: freegpt89
     env: docker
     dockerfilePath: ./Dockerfile
     plan: free
